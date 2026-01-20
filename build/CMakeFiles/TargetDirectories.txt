@@ -1,0 +1,3 @@
+/home/sleep/projects/cpp_learn/build/CMakeFiles/cpp_learn.dir
+/home/sleep/projects/cpp_learn/build/CMakeFiles/edit_cache.dir
+/home/sleep/projects/cpp_learn/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sleep/projects/cpp_learn/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/cpp_learn.dir/main.cpp.o -c /home/sleep/projects/cpp_learn/main.cpp",
+  "file": "/home/sleep/projects/cpp_learn/main.cpp",
+  "output": "CMakeFiles/cpp_learn.dir/main.cpp.o"
+}
+]
